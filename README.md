@@ -107,4 +107,6 @@ Aplikasi Point of Sale berbasis web untuk manajemen produk, pelanggan, dan trans
   * **Password:** `admin123`
 
   ## 🗃️ Struktur Database
+  ![INOFIX-ERD-POS](https://github.com/Sarmiie/INOFIX-PointOfSale/blob/master/INOFIX-ERD-POS.png)
   
+
