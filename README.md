@@ -54,7 +54,7 @@ Aplikasi Point of Sale berbasis web untuk manajemen produk, pelanggan, dan trans
 1. **Clone repository**
    ```bash
    git clone https://github.com/Sarmiie/INOFIX-PointOfSale.git
-   cd INOFIX-PointOfSale
+   cd pos-backend
 2. **Install dependencies PHP**
    ```bash
    composer install
@@ -109,5 +109,6 @@ Aplikasi Point of Sale berbasis web untuk manajemen produk, pelanggan, dan trans
   ## 🗃️ Struktur Database
   ![INOFIX-ERD-POS](https://github.com/Sarmiie/INOFIX-PointOfSale/blob/master/INOFIX-ERD-POS.png)
   
+
 
 
