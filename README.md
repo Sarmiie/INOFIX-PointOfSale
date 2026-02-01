@@ -87,7 +87,7 @@ Aplikasi Point of Sale berbasis web untuk manajemen produk, pelanggan, dan trans
 
   1. **Masuk ke direktori frontend**
      ```bash
-     cd frontend
+     cd pos-frontend
      
   2. **Install dependensies**
      ```bash
@@ -109,6 +109,7 @@ Aplikasi Point of Sale berbasis web untuk manajemen produk, pelanggan, dan trans
   ## 🗃️ Struktur Database
   ![INOFIX-ERD-POS](https://github.com/Sarmiie/INOFIX-PointOfSale/blob/master/INOFIX-ERD-POS.png)
   
+
 
 
 
